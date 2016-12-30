@@ -1,0 +1,201 @@
+- title: 軍靴のバルツァー
+  kana: ぐんかのばるつぁー
+  label: BUNCH COMICS
+  publisher: 新潮社
+  havings: 1
+
+- title: 食戟のソーマ
+  kana: しょくげきのそーま
+  label: JC
+  publisher: 集英社
+  havings: 9
+
+- title: マンガ家さんとアシスタントさんと
+  kana: まんがかさんとあしすたんとさんと
+  label: ヤングガンガン
+  publisher: スクエアエニックス
+  havings: 5
+
+- title: ログ・ホライズン
+  kana: ろぐ・ほらいずん
+  label: ドラゴンエイジ
+  publisher: 角川
+  havings: 10
+
+- title: ログ・ホライズン 西風の旅団
+  kana: ろぐ・ほらいずん
+  label: ドラゴンエイジ
+  publisher: 角川
+  havings: 6
+
+- title: よつばと！
+  kana: よつばと！
+  label: 電撃コミックス
+  publisher: 角川
+  havings: 13
+
+- title: プラチナエンド
+  kaba: ぷらちなえんど
+  label: JC
+  publisher: 集英社
+  havings: 2
+
+- title: 弱虫ペダル
+  kaba: よわむしぺだる
+  label: チャンピオン
+  publisher: 秋田書店
+  havings: 46
+
+- title: 弱虫ペダル SPARE BIKE
+  kaba: よわむしぺだる
+  label: チャンピオン
+  publisher: 秋田書店
+  havings: 3
+
+- title: アイシールド21
+  label: JC
+  publisher: 集英社
+  havings: 1
+
+- title: 結界師
+  label: サンデー
+  publisher: 小学館
+  havings: 2
+
+- title: 銀の匙 Silver Spoon
+  label: サンデー
+  publisher: 小学館
+  havings: 13
+
+- title: BLACK LAGOON
+  label: サンデーGXコミック
+  publisher: 小学館
+  havings: 10
+
+- title: 青の祓魔師
+  label: JC
+  publisher: 集英社
+  havings: 17
+  extra:
+    - ウィークエンド・ヒーロー
+    - ホーム・スイート・ホーム
+
+- title: 月刊少女野崎くん
+  label: ガンガン
+  publisher: スクエアエニックス
+  havings: 8
+
+- title: だがしかし
+  label: サンデー
+  publisher: 小学館
+  havings: 1
+
+- title: ノーゲーム・ノーライフ
+  label: MF文庫J
+  publisher: メディアファクトリー
+  havings: 9
+
+- title: ソードアート・オンライン
+  label: 電撃文庫
+  publisher: 角川
+  havings: 18
+
+- title: ソードアート・オンライン プログレッシブ
+  label: 電撃文庫
+  publisher: 角川
+  havings: 2
+
+- title: 宇宙兄弟
+  label: モーニングKC
+  publisher: 講談社
+  havings: 2
+
+- title: 魔法科高校の劣等性
+  label: 電撃文庫
+  publisher: 角川
+  havings: 12
+
+- title: フレイム王国興亡記
+  label: オーバーラップ
+  publisher: オーバーラップ
+  havings: 2
+
+- title: せっかち男爵と時間泥棒
+  label: サンデー
+  publisher: 小学館
+  havings: 4
+
+- title: デュラララ!!
+  label: 電撃文庫
+  publisher: 角川
+  havings: 7
+
+- title: Fランクの暴君
+  label: 電撃文庫
+  publisher: 角川
+  havings: 2
+
+- title: シュバルツェスマーケン
+  label: ファミ通文庫
+  publisher: 角川
+  havings: 3
+
+- title: バカとテストと召喚獣
+  label: ファミ通文庫
+  publisher: 角川
+  havings: 12.5
+
+- title: マブラヴ オルタネイティブ トータル・イクリプス
+  label: ファミ通文庫
+  publisher: 角川
+  havings: 5
+
+- title: Occultic; Nine
+  label: オーバーラップ
+  publisher: オーバーラップ
+  havings: 1
+
+- title: 狼と香辛料
+  label: 電撃文庫
+  publisher: 角川
+  havings: 2
+
+- title: マグダラで眠れ
+  label: 電撃文庫
+  publisher: 角川
+  havings: 1
+
+- title: 鋼殻のレギオス
+  label: ファンタジア文庫
+  publisher: 角川
+  havings: 1-3, 16-25
+
+- title: 亜人ちゃんは語りたい
+  label: ヤンマガKCスペシャル
+  publisher: 講談社
+  havings: 4
+
+- title: ふらいんぐうぃっち
+  label: 講談社コミックス
+  publisher: 講談社
+  havings: 4
+
+- title: ヒマワリ:unUtopial World
+  label: スニーカー文庫
+  publisher: 角川
+  havings: 3
+
+- title: ヒカルの碁
+  label: JC
+  publisher: 集英社
+  havings: 20-23
+
+- title: かみさまドクター
+  label: 電撃文庫
+  publisher: 角川
+  havings: 1
+
+- title: レンタルマギカ
+  label: スニーカー文庫
+  publisher: 角川
+  havings: 21-23
