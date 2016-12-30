@@ -1,11 +1,9 @@
 ---
 layout: default
 ---
-<ul>
 {% for book in site.data.books %}
 <div>
   <h2>{{ book.title }} <small>{{ book.havings }}</small></h2>
   <p>{{ book.label }},　{{ book.publisher }}</p>
 </div>
 {% endfor %}
-</ul>
