@@ -2,7 +2,7 @@
   kana: ぐんかのばるつぁー
   label: BUNCH COMICS
   publisher: 新潮社
-  havings: 1
+  havings: 2
 
 - title: 食戟のソーマ
   kana: しょくげきのそーま
@@ -44,7 +44,7 @@
   kaba: よわむしぺだる
   label: チャンピオン
   publisher: 秋田書店
-  havings: 46
+  havings: 47
 
 - title: 弱虫ペダル SPARE BIKE
   kaba: よわむしぺだる
@@ -75,7 +75,7 @@
 - title: 青の祓魔師
   label: JC
   publisher: 集英社
-  havings: 17
+  havings: 18
   extra:
     - ウィークエンド・ヒーロー
     - ホーム・スイート・ホーム
@@ -94,6 +94,8 @@
   label: MF文庫J
   publisher: メディアファクトリー
   havings: 9
+  extra:
+    - プラクティカルウォーゲーム
 
 - title: ソードアート・オンライン
   label: 電撃文庫
