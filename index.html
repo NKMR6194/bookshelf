@@ -3,7 +3,15 @@ layout: default
 ---
 {% for book in site.data.books %}
 <div class="book">
-  <h3>{{ book.title }} <small>{{ book.havings }}</small></h3>
+  <h3>
+    {{ book.title }}
+    <small>{{ book.havings }}</small>
+  </h3>
+  <ul class="extra">
+    {% for extra in book.extra %}
+      <li>{{ extra }}</li>
+    {% endfor %}
+  </ul>
   <p>{{ book.label }}, {{ book.publisher }}　<a href='https://www.amazon.co.jp/s/?__mk_ja_JP=カタカナ&url=search-alias%3Dstripbooks&field-keywords={{ book.title }}' target="_blank">amazon</a></p>
 </div>
 <hr>
