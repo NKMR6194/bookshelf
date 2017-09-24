@@ -65,7 +65,7 @@
 - title: 銀の匙 Silver Spoon
   label: サンデー
   publisher: 小学館
-  havings: 13
+  havings: 14
 
 - title: BLACK LAGOON
   label: サンデーGXコミック
@@ -225,4 +225,9 @@
 - title: かくしごと
   label: 講談社コミックス デラックス
   publisher: 講談社
+  havings: 1
+
+- title: 異世界食堂
+  label: ヒーロー文庫
+  publisher: 主婦の友社
   havings: 1
