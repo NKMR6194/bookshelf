@@ -44,7 +44,7 @@
   kaba: よわむしぺだる
   label: チャンピオン
   publisher: 秋田書店
-  havings: 49
+  havings: 50
 
 - title: 弱虫ペダル SPARE BIKE
   kaba: よわむしぺだる
@@ -83,7 +83,7 @@
 - title: 月刊少女野崎くん
   label: ガンガン
   publisher: スクエアエニックス
-  havings: 8
+  havings: 9
 
 - title: だがしかし
   label: サンデー
@@ -180,7 +180,7 @@
 - title: ふらいんぐうぃっち
   label: 講談社コミックス
   publisher: 講談社
-  havings: 5
+  havings: 6
 
 - title: ヒマワリ:unUtopial World
   label: スニーカー文庫
@@ -228,6 +228,11 @@
   havings: 1
 
 - title: 異世界食堂
+  label: ヒーロー文庫
+  publisher: 主婦の友社
+  havings: 3
+
+- title: 異世界落語
   label: ヒーロー文庫
   publisher: 主婦の友社
   havings: 1
