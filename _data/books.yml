@@ -44,7 +44,7 @@
   kaba: よわむしぺだる
   label: チャンピオン
   publisher: 秋田書店
-  havings: 50
+  havings: 51
 
 - title: 弱虫ペダル SPARE BIKE
   kaba: よわむしぺだる
@@ -75,7 +75,7 @@
 - title: 青の祓魔師
   label: JC
   publisher: 集英社
-  havings: 19
+  havings: 20
   extra:
     - ウィークエンド・ヒーロー
     - ホーム・スイート・ホーム
@@ -110,7 +110,7 @@
 - title: 宇宙兄弟
   label: モーニングKC
   publisher: 講談社
-  havings: 2
+  havings: 1-2, 21
 
 - title: 魔法科高校の劣等生
   label: 電撃文庫
@@ -185,7 +185,7 @@
 - title: ヒマワリ:unUtopial World
   label: スニーカー文庫
   publisher: 角川
-  havings: 3
+  havings: 4
 
 - title: ヒカルの碁
   label: JC
@@ -230,9 +230,15 @@
 - title: 異世界食堂
   label: ヒーロー文庫
   publisher: 主婦の友社
-  havings: 3
+  havings: 4
 
 - title: 異世界落語
   label: ヒーロー文庫
   publisher: 主婦の友社
   havings: 1
+
+- title: 甘城ブリリアントパーク
+  label: ファンタジア文庫
+  publisher: 角川
+  havings: 1
+
