@@ -75,7 +75,7 @@
 - title: 青の祓魔師
   label: JC
   publisher: 集英社
-  havings: 20
+  havings: 21
   extra:
     - ウィークエンド・ヒーロー
     - ホーム・スイート・ホーム
@@ -93,7 +93,7 @@
 - title: ノーゲーム・ノーライフ
   label: MF文庫J
   publisher: メディアファクトリー
-  havings: 9
+  havings: 10
   extra:
     - プラクティカルウォーゲーム
 
@@ -247,4 +247,12 @@
   publisher: 一迅社
   havings: 1
 
+- title: 明るい記憶喪失
+  label: MFC
+  publisher: 角川
+  havings: 1
 
+- title: 異世界図書館へようこそ
+  label: スニーカー文庫
+  publisher: 角川
+  havings: 1
