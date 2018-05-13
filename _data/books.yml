@@ -32,7 +32,7 @@
   kana: よつばと！
   label: 電撃コミックス
   publisher: 角川
-  havings: 13
+  havings: 14
 
 - title: プラチナエンド
   kaba: ぷらちなえんど
@@ -187,11 +187,6 @@
   publisher: 角川
   havings: 5
 
-- title: ヒカルの碁
-  label: JC
-  publisher: 集英社
-  havings: 20-23
-
 - title: かみさまドクター
   label: 電撃文庫
   publisher: 角川
@@ -256,3 +251,8 @@
   label: スニーカー文庫
   publisher: 角川
   havings: 1
+
+- title: りゅうおうのおしごと！
+  label: GA文庫
+  publisher: SBクリエイティブ
+  havings: 7
