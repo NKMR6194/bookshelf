@@ -75,7 +75,7 @@
 - title: 青の祓魔師
   label: JC
   publisher: 集英社
-  havings: 21
+  havings: 22
   extra:
     - ウィークエンド・ヒーロー
     - ホーム・スイート・ホーム
@@ -255,4 +255,9 @@
 - title: りゅうおうのおしごと！
   label: GA文庫
   publisher: SBクリエイティブ
-  havings: 7
+  havings: 9
+
+- title: ワンワン物語 〜金持ちの犬にしてとは言ったが、フェンリルにしろとは言ってねえ！〜
+  label: スニーカー文庫
+  publisher: 角川
+  havings: 1
