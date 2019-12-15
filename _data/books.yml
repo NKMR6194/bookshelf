@@ -1,3 +1,53 @@
+- title: Dr.STONE
+  label: ジャンプ
+  publisher: 集英社
+  havings: 10-13
+  
+- title: ブルーピリオド
+  label: アフタヌーンKC
+  publisher: 講談社
+  havings: 1
+  
+- title: 幼女戦記
+  label: 角川コミック・エース
+  publisher: 角川
+  havings: 15-16
+  
+- title: 宇崎ちゃんは遊びたい
+  label: ドラゴンコミックスエイジ
+  publisher: 角川
+  havings: 3
+  
+- title: ライドンキング
+  label: シリウスKC
+  publisher: 講談社
+  havings: 3
+  
+- title: 亜人ちゃんは語りたい
+  label: ヤンマガKCスペシャル
+  publisher: 講談社
+  havings: 7
+
+- title: ふらいんぐうぃっち
+  label: 講談社コミックス
+  publisher: 講談社
+  havings: 8
+  
+- title: りゅうおうのおしごと！
+  label: GA文庫
+  publisher: SBクリエイティブ
+  havings: 11
+  
+- title: ゆるキャン△
+  label: まんがタイムKRコミックス
+  publisher: 芳文社
+  havings: 8
+  
+- title: 朝焼けは黄金色 THE IDOLM@STER
+  label: REX COMICS
+  publisher: 一迅社
+  havings: 2
+
 - title: 軍靴のバルツァー
   kana: ぐんかのばるつぁー
   label: BUNCH COMICS
@@ -147,20 +197,10 @@
   publisher: 角川
   havings: 1-3, 16-25
 
-- title: 亜人ちゃんは語りたい
-  label: ヤンマガKCスペシャル
-  publisher: 講談社
-  havings: 7
-
-- title: ふらいんぐうぃっち
-  label: 講談社コミックス
-  publisher: 講談社
-  havings: 8
-
 - title: ヒマワリ:unUtopial World
   label: スニーカー文庫
   publisher: 角川
-  havings: 6
+  havings: 8
 
 - title: かみさまドクター
   label: 電撃文庫
@@ -182,48 +222,12 @@
   publisher: 角川
   havings: 2
 
-- title: 朝焼けは黄金色 THE IDOLM@STER
-  label: REX COMICS
-  publisher: 一迅社
-  havings: 2
-
 - title: 明るい記憶喪失
   label: MFC
   publisher: 角川
   havings: 1
 
-- title: りゅうおうのおしごと！
-  label: GA文庫
-  publisher: SBクリエイティブ
-  havings: 11
-
 - title: ワンワン物語 〜金持ちの犬にしてとは言ったが、フェンリルにしろとは言ってねえ！〜
   label: スニーカー文庫
   publisher: 角川
-  havings: 1
-
-- title: Dr.STONE
-  label: ジャンプ
-  publisher: 集英社
-  havings: 10-13
-  
-- title: ブルーピリオド
-  label: アフタヌーンKC
-  publisher: 講談社
-  havings: 1
-  
-- title: 幼女戦記
-  label: 角川コミック・エース
-  publisher: 角川
-  havings: 15-16
-  
-- title: 宇崎ちゃんは遊びたい
-  label: ドラゴンコミックスエイジ
-  publisher: 角川
-  havings: 3
-  
-- title: ライドンキング
-  label: シリウスKC
-  publisher: 講談社
-  havings: 3
-  
+  havings: 3  
