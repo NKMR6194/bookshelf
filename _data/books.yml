@@ -85,11 +85,6 @@
   publisher: スクエアエニックス
   havings: 9
 
-- title: だがしかし
-  label: サンデー
-  publisher: 小学館
-  havings: 1
-
 - title: ノーゲーム・ノーライフ
   label: MF文庫J
   publisher: メディアファクトリー
@@ -132,11 +127,6 @@
   publisher: 角川
   havings: 7
 
-- title: Fランクの暴君
-  label: 電撃文庫
-  publisher: 角川
-  havings: 2
-
 - title: シュバルツェスマーケン
   label: ファミ通文庫
   publisher: 角川
@@ -152,21 +142,6 @@
   publisher: 角川
   havings: 5
 
-- title: Occultic; Nine
-  label: オーバーラップ
-  publisher: オーバーラップ
-  havings: 1
-
-- title: 狼と香辛料
-  label: 電撃文庫
-  publisher: 角川
-  havings: 2
-
-- title: マグダラで眠れ
-  label: 電撃文庫
-  publisher: 角川
-  havings: 1
-
 - title: 鋼殻のレギオス
   label: ファンタジア文庫
   publisher: 角川
@@ -180,7 +155,7 @@
 - title: ふらいんぐうぃっち
   label: 講談社コミックス
   publisher: 講談社
-  havings: 6
+  havings: 8
 
 - title: ヒマワリ:unUtopial World
   label: スニーカー文庫
@@ -197,41 +172,11 @@
   publisher: 角川
   havings: 21-23
 
-- title: お前はまだグンマを知らない
-  label: BUNCH COMICS
-  publisher: 新潮社
-  havings: 1
-
-- title: エンペラーといっしょ
-  label: JC
-  publisher: 集英社
-  havings: 3
-  
-- title: スティーブズ
-  label: BIG SUPERIOR COMICS SPECIAL
-  publisher: 小学館
-  havings: 3
-  
-- title: 残念女幹部ブラックジェネラルさん
-  label: DRAGON COMICS AGE
-  publisher: 角川
-  havings: 1
-  
-- title: かくしごと
-  label: 講談社コミックス デラックス
-  publisher: 講談社
-  havings: 1
-
 - title: 異世界食堂
   label: ヒーロー文庫
   publisher: 主婦の友社
   havings: 5
-
-- title: 異世界落語
-  label: ヒーロー文庫
-  publisher: 主婦の友社
-  havings: 1
-
+  
 - title: 甘城ブリリアントパーク
   label: ファンタジア文庫
   publisher: 角川
@@ -247,17 +192,38 @@
   publisher: 角川
   havings: 1
 
-- title: 異世界図書館へようこそ
-  label: スニーカー文庫
-  publisher: 角川
-  havings: 1
-
 - title: りゅうおうのおしごと！
   label: GA文庫
   publisher: SBクリエイティブ
-  havings: 10
+  havings: 11
 
 - title: ワンワン物語 〜金持ちの犬にしてとは言ったが、フェンリルにしろとは言ってねえ！〜
   label: スニーカー文庫
   publisher: 角川
   havings: 1
+
+- title: Dr.STONE
+  label: ジャンプ
+  publisher: 集英社
+  havings: 10-13
+  
+- title: ブルーピリオド
+  label: アフタヌーンKC
+  publisher: 講談社
+  havings: 1
+  
+- title: 幼女戦記
+  label: 角川コミック・エース
+  publisher: 角川
+  havings: 15-16
+  
+- title: 宇崎ちゃんは遊びたい
+  label: ドラゴンコミックスエイジ
+  publisher: 角川
+  havings: 3
+  
+- title: ライドンキング
+  label: シリウスKC
+  publisher: 講談社
+  havings: 1
+  
