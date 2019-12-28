@@ -6,7 +6,7 @@
 - title: ブルーピリオド
   label: アフタヌーンKC
   publisher: 講談社
-  havings: 1
+  havings: 5
   
 - title: 幼女戦記
   label: 角川コミック・エース
@@ -102,16 +102,6 @@
   publisher: 秋田書店
   havings: 3
 
-- title: アイシールド21
-  label: JC
-  publisher: 集英社
-  havings: 1
-
-- title: 結界師
-  label: サンデー
-  publisher: 小学館
-  havings: 2
-
 - title: 銀の匙 Silver Spoon
   label: サンデー
   publisher: 小学館
@@ -125,7 +115,7 @@
 - title: 青の祓魔師
   label: JC
   publisher: 集英社
-  havings: 22
+  havings: 24
   extra:
     - ウィークエンド・ヒーロー
     - ホーム・スイート・ホーム
@@ -133,7 +123,7 @@
 - title: 月刊少女野崎くん
   label: ガンガン
   publisher: スクエアエニックス
-  havings: 9
+  havings: 10
 
 - title: ノーゲーム・ノーライフ
   label: MF文庫J
@@ -166,11 +156,6 @@
   label: オーバーラップ
   publisher: オーバーラップ
   havings: 2
-
-- title: せっかち男爵と時間泥棒
-  label: サンデー
-  publisher: 小学館
-  havings: 4
 
 - title: デュラララ!!
   label: 電撃文庫
